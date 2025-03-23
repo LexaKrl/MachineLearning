@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def main():
-    dataset = pd.read_csv("train.csv")
+    dataset = pd.read_csv("../train.csv")
 
     print(dataset[(dataset.Sex == "male") & (dataset.Pclass == 3)]["Survived"].mean())
     plt.show()
