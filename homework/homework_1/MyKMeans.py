@@ -129,21 +129,28 @@ class MyKMeans:
             self.labels = self.assign_clusters()
 
             # Визуалищация для второго задания
-            # self.visualize()
+            self.visualize()
 
             if not self.update_centroids():
                 break
 
     def visualize_all(self):
-
         length = self.dataset.shape[1]
-        for i in range(0, length):
-            for j in range(i + 1, length):
-                print(i)
-                print(j)
-                print("\n")
-                self.visualize(i, j)
-                plt.show()
+
+        for i in range(length):
+            for j in range(length):
+                if i == j:
+                    continue
+
+                plt.subplot(length, length, i * length + j + 1)
+                plt.scatter(self.dataset[:, j], self.dataset[:, i],
+                            c=self.labels, cmap='viridis', alpha=0.7)
+                plt.scatter(np.array(self.centroids)[:, j],
+                            np.array(self.centroids)[:, i],
+                            marker='X', s=100, c='red', linewidths=1)
+        plt.tight_layout()
+        plt.show()
+
 
 
 def main():
