@@ -97,10 +97,10 @@ class MyKMeans:
         self.centroids = new_centroids
         return True
 
-    def visualize(self):
-        plt.scatter(self.dataset[:, 0], self.dataset[:, 1], c=self.labels, cmap='viridis')
-        plt.scatter(np.array(self.centroids)[:, 0],
-                    np.array(self.centroids)[:, 1],
+    def visualize(self, param1: int = 0, param2: int = 1):
+        plt.scatter(self.dataset[:, param1], self.dataset[:, param2], c=self.labels, cmap='viridis')
+        plt.scatter(np.array(self.centroids)[:, param1],
+                    np.array(self.centroids)[:, param2],
                     marker='X', s=200, c='red')
         plt.show()
 
@@ -128,12 +128,22 @@ class MyKMeans:
         for _ in range(max_iter):
             self.labels = self.assign_clusters()
 
-            self.visualize()
+            # Визуалищация для второго задания
+            # self.visualize()
 
             if not self.update_centroids():
                 break
 
+    def visualize_all(self):
 
+        length = self.dataset.shape[1]
+        for i in range(0, length):
+            for j in range(i + 1, length):
+                print(i)
+                print(j)
+                print("\n")
+                self.visualize(i, j)
+                plt.show()
 
 
 def main():
@@ -150,13 +160,7 @@ def main():
     kmeans = MyKMeans(dataset=data, n_clusters=3)
     kmeans.fit()
 
-    labels = kmeans.labels
-    centroids = kmeans.centroids
-
-    plt.scatter(data[:, 0], data[:, 1], c=labels)
-    plt.scatter(np.array(centroids)[:, 0], np.array(centroids)[:, 1], marker='X', s=200, c='red')
-    plt.title("Результаты кластеризации K-means")
-    plt.show()
+    kmeans.visualize_all()
     return
 
 if __name__ == "__main__":
