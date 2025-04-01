@@ -3,22 +3,27 @@ import numpy as np
 import matplotlib.pyplot as plt
 from typing import List, Optional
 
-from fcmeans.cli import predict
 from sklearn.datasets import load_iris
 from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
 
 
-def find_optimal_clusters(data, max_k=10):
-    lst = []
+def auto_silhouette(data, max_k=10):
+    best_k = 2
+    best_score = -1
+    scores = []
 
-    for k in range(1, max_k + 1):
-        kmeans = KMeans(n_clusters=k, init='k-means++', random_state=42)
-        kmeans.fit(data)
-        lst.append(kmeans.inertia_)
+    for k in range(2, max_k + 1):
+        kmeans = KMeans(n_clusters=k, random_state=42)
+        labels = kmeans.fit_predict(data)
+        score = silhouette_score(data, labels)
+        scores.append(score)
 
-    plt.plot(range(1, max_k + 1), lst, 'bo-')
-    plt.title('Метод локтя для определения оптимального числа кластеров')
-    plt.grid()
+        if score > best_score:
+            best_score = score
+            best_k = k
+
+    return best_k
 
 class MyKMeans:
     n_clusters = None
@@ -162,9 +167,10 @@ def main():
     Определили оптимальное количество кластеров = 3
     видно на картинке AVG_DISTANCES 
     """
-    # find_optimal_clusters(data)
 
-    kmeans = MyKMeans(dataset=data, n_clusters=3)
+    n_clusters = auto_silhouette(data)
+
+    kmeans = MyKMeans(dataset=data, n_clusters= n_clusters)
     kmeans.fit()
 
     kmeans.visualize_all()

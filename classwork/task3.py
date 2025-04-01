@@ -2,6 +2,8 @@ from sklearn.datasets import load_iris
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 from fcmeans import FCM
+import librosa
+
 
 import matplotlib.pyplot as plt
 
