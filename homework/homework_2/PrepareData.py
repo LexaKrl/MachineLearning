@@ -17,7 +17,7 @@ class PrepareData:
         # np.ones - массив единичек
         # np.triu - triangle upper
         upper = corr.where(np.triu(np.ones(corr.shape), k=1).astype(bool))
-        to_drop = [column for column in upper.columns if any(upper[column] > 0.6)]
+        to_drop = [column for column in upper.columns if any(upper[column] > 0.81)]
         data = data.drop(to_drop, axis=1)
 
         data = data.dropna()
