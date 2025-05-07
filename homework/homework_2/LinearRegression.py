@@ -50,7 +50,7 @@ def lasso_analyze(X_train, y_train):
 
 
 def main():
-    file_path = "..\\AmesHousing.csv"
+    file_path = "../../AmesHousing.csv"
 
     data = pd.read_csv(file_path)
 
