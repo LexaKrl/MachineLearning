@@ -1,0 +1,2251 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-24T10:46:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/345185932",
+        "name": "Волна",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3892295,
+          53.4660545
+        ]
+      },
+      "id": "node/345185932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1475412221",
+        "internet_access": "wlan",
+        "name": "Волга",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4211573,
+          53.5117214
+        ]
+      },
+      "id": "node/1475412221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1785014753",
+        "contact:email": "tkmuseum@mail.ru",
+        "contact:facebook": "https://www.facebook.com/tkmuseum",
+        "contact:phone": "+7 8482 48-55-62",
+        "contact:vk": "https://vk.com/tltmuseum",
+        "contact:website": "http://tltmuseum.ru/",
+        "name": "Тольяттинский краеведческий музей",
+        "opening_hours": "Tu 11:00-18:00; Th-Su 11:00-18:00; We 10:00-21:00; Mo off; Fr[-1] off \"санитарный день\"",
+        "operator": "Департамент культуры администрации г.о. Тольятти",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.420685,
+          53.5020485
+        ]
+      },
+      "id": "node/1785014753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978599256",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4019593,
+          53.5061649
+        ]
+      },
+      "id": "node/1978599256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386756516",
+        "name": "Спорт-Отель",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3901292,
+          53.4999192
+        ]
+      },
+      "id": "node/2386756516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2516304654",
+        "name": "МФЦ",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3584003,
+          53.5394238
+        ]
+      },
+      "id": "node/2516304654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2547926234",
+        "amenity": "restaurant",
+        "name": "Поручикъ Голицинъ",
+        "tourism": "hotel",
+        "website": "https://golicin.su/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3276187,
+          53.5344461
+        ]
+      },
+      "id": "node/2547926234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3221420845",
+        "name": "Салют",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4524953,
+          53.5314606
+        ]
+      },
+      "id": "node/3221420845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455802568",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3203005,
+          53.4929381
+        ]
+      },
+      "id": "node/3455802568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3639621947",
+        "name": "Зелёный берег",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.303757,
+          53.489587
+        ]
+      },
+      "id": "node/3639621947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3639621948",
+        "name": "Пансионат \"Звёздный\"",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3013948,
+          53.4909472
+        ]
+      },
+      "id": "node/3639621948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3639621949",
+        "leisure": "resort",
+        "name": "Россиянка",
+        "resort": "sanatorium",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3061125,
+          53.4888623
+        ]
+      },
+      "id": "node/3639621949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3639621950",
+        "name": "Шамони",
+        "name:en": "Shamoni",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2951165,
+          53.4901544
+        ]
+      },
+      "id": "node/3639621950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3672157670",
+        "name": "Пансионат \"Радуга\"",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.324293,
+          53.4797524
+        ]
+      },
+      "id": "node/3672157670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018172652",
+        "leisure": "resort",
+        "name": "Надежда",
+        "resort": "sanatorium",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3356382,
+          53.476779
+        ]
+      },
+      "id": "node/4018172652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018172653",
+        "leisure": "resort",
+        "name": "Санаторий-профилакторий \"Ставрополь\"",
+        "resort": "sanatorium",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3380501,
+          53.476711
+        ]
+      },
+      "id": "node/4018172653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4140601600",
+        "internet_access": "wlan",
+        "name": "турбаза Подснежник",
+        "phone": "+78482489864",
+        "tourism": "camp_site",
+        "website": "https://podsnegniktlt.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3832161,
+          53.4675055
+        ]
+      },
+      "id": "node/4140601600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4189881136",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3599902,
+          53.4931981
+        ]
+      },
+      "id": "node/4189881136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4189881149",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3767008,
+          53.4974192
+        ]
+      },
+      "id": "node/4189881149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4295216291",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4003094,
+          53.4690697
+        ]
+      },
+      "id": "node/4295216291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373263630",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.390042,
+          53.5200816
+        ]
+      },
+      "id": "node/4373263630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373299578",
+        "addr:city": "Тольятти",
+        "addr:housenumber": "66",
+        "addr:street": "Комсомольское шоссе",
+        "name": "Березка",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3892502,
+          53.4681853
+        ]
+      },
+      "id": "node/4373299578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373299579",
+        "addr:city": "Тольятти",
+        "name": "Свежесть",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3925493,
+          53.4687289
+        ]
+      },
+      "id": "node/4373299579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373299580",
+        "addr:city": "Тольятти",
+        "name": "Тиво",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3956499,
+          53.4688982
+        ]
+      },
+      "id": "node/4373299580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373321712",
+        "description": "Вершина холма",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3249537,
+          53.4897058
+        ]
+      },
+      "id": "node/4373321712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894990759",
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2910639,
+          53.4954989
+        ]
+      },
+      "id": "node/4894990759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4944503490",
+        "name": "Сосновый бор",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3415604,
+          53.4766223
+        ]
+      },
+      "id": "node/4944503490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5191311059",
+        "description": "Вершина холма",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3746614,
+          53.5001183
+        ]
+      },
+      "id": "node/5191311059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255222885",
+        "artwork_type": "sculpture",
+        "name": "Башня",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4867388,
+          53.4871064
+        ]
+      },
+      "id": "node/5255222885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257107415",
+        "artist_name": "А. Блонский",
+        "artwork_type": "statue",
+        "name": "Лето",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2633331,
+          53.5069935
+        ]
+      },
+      "id": "node/5257107415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5263475797",
+        "artist_name": "Геральд Кривощеков",
+        "artwork_type": "sculpture",
+        "name": "Устремление",
+        "official_name": "Памятный знак городам – побратимам и партнёрам Тольятти",
+        "start_date": "2012",
+        "tourism": "artwork",
+        "wikidata": "Q4343686",
+        "wikipedia": "ru:Памятники Тольятти"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4107021,
+          53.5140831
+        ]
+      },
+      "id": "node/5263475797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5346849533",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4771544,
+          53.4861164
+        ]
+      },
+      "id": "node/5346849533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5395651570",
+        "artwork_type": "statue",
+        "name": "На берегу",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2761314,
+          53.5140082
+        ]
+      },
+      "id": "node/5395651570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5548048643",
+        "addr:housenumber": "12",
+        "addr:street": "Лесопарковое шоссе",
+        "leisure": "resort",
+        "name": "Санаторий \"Русский бор\"",
+        "resort": "sanatorium",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3446002,
+          53.4767497
+        ]
+      },
+      "id": "node/5548048643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5551013239",
+        "description": "видно с самолета",
+        "name": "Тольятти спортинг",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5416976,
+          53.487175
+        ]
+      },
+      "id": "node/5551013239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552612082",
+        "name": "Магистраль",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.510235,
+          53.4878329
+        ]
+      },
+      "id": "node/5552612082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555130024",
+        "name": "ТНПС",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5274003,
+          53.5121412
+        ]
+      },
+      "id": "node/5555130024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5559319772",
+        "information": "stele",
+        "name": "Тольятти",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5527908,
+          53.5055435
+        ]
+      },
+      "id": "node/5559319772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5608579422",
+        "name": "Парусная мастерская",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3681908,
+          53.4702375
+        ]
+      },
+      "id": "node/5608579422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611561924",
+        "name": "Парапланеризм",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4481072,
+          53.4742674
+        ]
+      },
+      "id": "node/5611561924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652661921",
+        "name": "ОАО \"АвтоВАЗ\".",
+        "name:en": "AvtoVAZ",
+        "name:ru": "ОАО \"АвтоВАЗ\". Заводоуправление",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2646679,
+          53.5556565
+        ]
+      },
+      "id": "node/5652661921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678663862",
+        "contact:email": "kartgal@mail.ru",
+        "contact:facebook": "http://facebook.com/thmmuseum",
+        "contact:phone": "+7 8482 70-30-98",
+        "contact:vk": "http://vk.com/togliatty.art.museum",
+        "contact:website": "http://www.thm-museum.ru",
+        "name": "Тольяттинский художественный музей",
+        "opening_hours": "Mo off; Tu-We 10:00-18:00; Th 10:00-21:00; Fr-Su 10:00-18:00",
+        "operator": "Департамент культуры администрации г.о. Тольятти",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4202858,
+          53.5031607
+        ]
+      },
+      "id": "node/5678663862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678663864",
+        "artist_name": "Владимир Семёнович Никитин",
+        "description:ru": "Композиция из 3 частей: венец цементной печи, выпущенной заводом «Волгоцеммаш»; ковш экскаватора, вынувшего первый ковш земли во время строительства корпуса вспомогательных цехов «Автоваза»; лопатка от первой турбины Волжской ГЭС",
+        "name": "Техническому прогрессу",
+        "start_date": "сентябрь 1984",
+        "tourism": "artwork",
+        "wikidata": "Q4343686",
+        "wikipedia": "ru:Памятники Тольятти"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4206318,
+          53.5026326
+        ]
+      },
+      "id": "node/5678663864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732862155",
+        "name": "герб Тольятти",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.420638,
+          53.5088663
+        ]
+      },
+      "id": "node/5732862155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792917855",
+        "email": "bay-salam@yandex.ru",
+        "name": "Арт-галерея Байрама Саламова",
+        "phone": "+79272687149; +79879618004; +79178200324",
+        "tourism": "gallery",
+        "website": "https://art-bairam.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3366452,
+          53.535185
+        ]
+      },
+      "id": "node/5792917855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792917857",
+        "name": "Музей института экологии Волжского бассейна РАН",
+        "opening_hours": "Mo-Fr 9:00-15:00",
+        "phone": "+7 8482 489 756",
+        "tourism": "museum",
+        "website": "http://ievbras.ru/struktura/museum.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3594882,
+          53.4760172
+        ]
+      },
+      "id": "node/5792917857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792917858",
+        "email": "muzeiww@yandex.ru",
+        "name": "Центр-музей В.С. Высоцкого",
+        "opening_hours": "11:00-18:00",
+        "phone": "+78482371332; +79276137811",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2798883,
+          53.5365775
+        ]
+      },
+      "id": "node/5792917858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792917902",
+        "name": "Дом матрешки",
+        "opening_hours": "Mo-Fr 9:00-18:00",
+        "phone": "+79270217908",
+        "tourism": "museum",
+        "website": "https://vk.com/dom_matreshki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2772677,
+          53.5425771
+        ]
+      },
+      "id": "node/5792917902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792917903",
+        "addr:housenumber": "121",
+        "addr:postcode": "445031",
+        "addr:street": "Южное шоссе",
+        "contact:phone": "+7 848 2534781;+7 848 2646491",
+        "contact:vk": "muzeumavtovaza",
+        "contact:website": "https://www.lada.ru",
+        "name": "Музей АвтоВАЗ",
+        "opening_hours": "Sa 09:00-12:15, 13:00-17:00; Tu-Fr 10:00-12:15, 13:00-17:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.271332,
+          53.5521263
+        ]
+      },
+      "id": "node/5792917903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5851361197",
+        "name": "Студент, спешащий на занятия",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3976865,
+          53.5006399
+        ]
+      },
+      "id": "node/5851361197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5963097867",
+        "contact:email": "otdel.sovr.isk@gmail.com",
+        "contact:facebook": "otdel.sovr.isk.tlt",
+        "contact:phone": "+7 (8482) 70-20-95",
+        "contact:vk": "otdelsovrisk",
+        "contact:website": "http://www.thm-museum.ru",
+        "name": "Отдел современного искусства Тольяттинского художественного музея",
+        "opening_hours": "Mo 10:00-18:00; Tu-Sa 12:00-20:00; Su off",
+        "operator": "Тольяттинский художественный музей",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3182158,
+          53.5249632
+        ]
+      },
+      "id": "node/5963097867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6357348172",
+        "contact:email": "tlt.muzei@yandex.ru",
+        "contact:facebook": "https://www.facebook.com/arcvolga",
+        "contact:phone": "+79061291161",
+        "contact:vk": "https://vk.com/id154895828",
+        "contact:website": "http://armuseum.ru",
+        "name": "Музей актуального реализма",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2822587,
+          53.523909
+        ]
+      },
+      "id": "node/6357348172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6472089132",
+        "artist_name": "Владислав Третьяков",
+        "artwork_type": "sculpture",
+        "material": "metal",
+        "name": "Камера! Мотор!",
+        "start_date": "27.08.2018",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2657739,
+          53.5167294
+        ]
+      },
+      "id": "node/6472089132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6473694786",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4164455,
+          53.4821332
+        ]
+      },
+      "id": "node/6473694786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6602076921",
+        "artwork_type": "sculpture",
+        "name": "Старичок",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3397552,
+          53.545124
+        ]
+      },
+      "id": "node/6602076921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6602076922",
+        "artwork_type": "sculpture",
+        "name": "Медведь",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3400475,
+          53.5451813
+        ]
+      },
+      "id": "node/6602076922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6602080869",
+        "artwork_type": "sculpture",
+        "name": "Лев",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3385482,
+          53.5450873
+        ]
+      },
+      "id": "node/6602080869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736637420",
+        "information": "stele",
+        "name": "Центральный район",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4621131,
+          53.5102686
+        ]
+      },
+      "id": "node/6736637420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736637421",
+        "information": "stele",
+        "name": "Комсомольский район",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4481043,
+          53.4772433
+        ]
+      },
+      "id": "node/6736637421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736637422",
+        "information": "stele",
+        "name": "Автозаводский район",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2910763,
+          53.4943744
+        ]
+      },
+      "id": "node/6736637422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736637423",
+        "information": "stele",
+        "name": "Центральный район",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4602348,
+          53.5725172
+        ]
+      },
+      "id": "node/6736637423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736637435",
+        "information": "stele",
+        "name": "Тольятти",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5016393,
+          53.4621028
+        ]
+      },
+      "id": "node/6736637435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6933040064",
+        "amenity": "bench",
+        "backrest": "yes",
+        "material": "metal",
+        "name": "Лавочка примирения",
+        "start_date": "2012",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3485255,
+          53.475142
+        ]
+      },
+      "id": "node/6933040064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7804513585",
+        "name": "Дверца в дереве",
+        "name:en": "Door in tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3450453,
+          53.5237802
+        ]
+      },
+      "id": "node/7804513585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816947422",
+        "check_date": "2024-09-27",
+        "contact:phone": "+7 8482 537070;+7 8482 507770",
+        "contact:viber": "+7 927 2681144",
+        "contact:website": "http://www.ataman-tlt.ru/",
+        "contact:whatsapp": "+7 927 2681144",
+        "name": "Атаман",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.34899,
+          53.5417212
+        ]
+      },
+      "id": "node/7816947422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7860335986",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3114812,
+          53.508961
+        ]
+      },
+      "id": "node/7860335986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7860360785",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3086812,
+          53.5056426
+        ]
+      },
+      "id": "node/7860360785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8294690593",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3981713,
+          53.5229907
+        ]
+      },
+      "id": "node/8294690593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8680874727",
+        "name": "Жара",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2532502,
+          53.5011258
+        ]
+      },
+      "id": "node/8680874727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832578864",
+        "artwork_type": "sculpture",
+        "material": "concrete",
+        "name": "Медведь",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2691866,
+          53.5402745
+        ]
+      },
+      "id": "node/8832578864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832578865",
+        "artwork_type": "sculpture",
+        "material": "concrete",
+        "name": "Медведица",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2739354,
+          53.5398508
+        ]
+      },
+      "id": "node/8832578865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832578866",
+        "artwork_type": "sculpture",
+        "material": "concrete",
+        "name": "Белая медведица",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2941774,
+          53.5381017
+        ]
+      },
+      "id": "node/8832578866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832578867",
+        "artwork_type": "sculpture",
+        "material": "concrete",
+        "name": "Белый медведь",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2981035,
+          53.5377525
+        ]
+      },
+      "id": "node/8832578867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926965617",
+        "name": "Самолёт Су-24",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2493458,
+          53.5527124
+        ]
+      },
+      "id": "node/9926965617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926970517",
+        "name": "85 мм пушка Д-48",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2497707,
+          53.5529532
+        ]
+      },
+      "id": "node/9926970517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926970518",
+        "name": "Передок к 76-мм горной пушке образца 1909 года",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2496988,
+          53.5526413
+        ]
+      },
+      "id": "node/9926970518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926970617",
+        "name": "76,2 мм противотанковая пушке ЗИС-3 образца 1942 г.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2497464,
+          53.5528213
+        ]
+      },
+      "id": "node/9926970617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926971417",
+        "name": "Вертолёт Ми-6",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2499268,
+          53.5521869
+        ]
+      },
+      "id": "node/9926971417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926973017",
+        "name": "Вертолёт Ми-10",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2498569,
+          53.5518277
+        ]
+      },
+      "id": "node/9926973017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926983723",
+        "name": "Фронтовой истребитель МиГ-23",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2506707,
+          53.5516672
+        ]
+      },
+      "id": "node/9926983723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926987217",
+        "name": "Истребитель Су-17М",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2488962,
+          53.5526839
+        ]
+      },
+      "id": "node/9926987217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926989920",
+        "name": "Мостоукладчик МТ-55",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2502752,
+          53.5512569
+        ]
+      },
+      "id": "node/9926989920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926990218",
+        "name": "Фронтовой истребитель МиГ-15",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2507399,
+          53.5520576
+        ]
+      },
+      "id": "node/9926990218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926994617",
+        "name": "Средний танк Т-62",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2482911,
+          53.552522
+        ]
+      },
+      "id": "node/9926994617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926994618",
+        "name": "Гусеничный минный заградитель ГМЗ на базе СУ-100П",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2503461,
+          53.5513232
+        ]
+      },
+      "id": "node/9926994618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927002619",
+        "name": "203мм самоходная пушка 2С7 «Пион»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2505598,
+          53.5525491
+        ]
+      },
+      "id": "node/9927002619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927002620",
+        "name": "160мм миномет образца 1943 г.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2506189,
+          53.552839
+        ]
+      },
+      "id": "node/9927002620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927018617",
+        "name": "Двухместный учебно-тренировочный самолёт МиГ-25РУ",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2505829,
+          53.5514304
+        ]
+      },
+      "id": "node/9927018617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927022720",
+        "name": "82мм миномет 2Б14-1",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2503891,
+          53.5528209
+        ]
+      },
+      "id": "node/9927022720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927024120",
+        "name": "36 фунтовая крепостная чугунная пушка образца 1838 г.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2498019,
+          53.5532051
+        ]
+      },
+      "id": "node/9927024120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927024219",
+        "name": "МиГ-31 «Фоксхаунд-А»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2509688,
+          53.5511225
+        ]
+      },
+      "id": "node/9927024219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927026619",
+        "name": "Многоцелевой истребитель МиГ-29",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2512314,
+          53.5509686
+        ]
+      },
+      "id": "node/9927026619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927026622",
+        "name": "160мм миномет М-160",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2503233,
+          53.5529002
+        ]
+      },
+      "id": "node/9927026622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927040821",
+        "name": "Военно-транспортный самолёт Ан-26",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.251439,
+          53.5520242
+        ]
+      },
+      "id": "node/9927040821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927040822",
+        "name": "Парашютно-десантный самолёт Ан-2",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2510571,
+          53.5521233
+        ]
+      },
+      "id": "node/9927040822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927041021",
+        "name": "Бомбардировщик Як-28",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2513864,
+          53.5514644
+        ]
+      },
+      "id": "node/9927041021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927041427",
+        "name": "Палубный самолёт Як-38",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2513238,
+          53.5512522
+        ]
+      },
+      "id": "node/9927041427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927041428",
+        "name": "Як-18т",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2513941,
+          53.5516581
+        ]
+      },
+      "id": "node/9927041428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927041519",
+        "name": "Автомобиль ЗИС-5",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2482873,
+          53.5525973
+        ]
+      },
+      "id": "node/9927041519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927041520",
+        "name": "Студебеккер",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.248443,
+          53.5525933
+        ]
+      },
+      "id": "node/9927041520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927041618",
+        "name": "Танк Т-34",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2481983,
+          53.5525965
+        ]
+      },
+      "id": "node/9927041618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927052621",
+        "name": "240мм миномет М-240",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2501858,
+          53.5529175
+        ]
+      },
+      "id": "node/9927052621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927056817",
+        "name": "152мм самоходная пушка 2С5 «Гиацинт»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2505531,
+          53.5526475
+        ]
+      },
+      "id": "node/9927056817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927056818",
+        "name": "82мм автоматический миномет 2Б9 «Василёк»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.250479,
+          53.5528879
+        ]
+      },
+      "id": "node/9927056818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927056917",
+        "name": "240мм самоходный миномет 2С4 «Тюльпан»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2505829,
+          53.5527423
+        ]
+      },
+      "id": "node/9927056917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927068617",
+        "name": "РСЗО М-13",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.248362,
+          53.5525945
+        ]
+      },
+      "id": "node/9927068617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927072517",
+        "name": "Истребитель Су-17М4",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2484922,
+          53.5527714
+        ]
+      },
+      "id": "node/9927072517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927199217",
+        "name": "Выставочный зал в честь 50-летия Автоваза",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2732122,
+          53.512992
+        ]
+      },
+      "id": "node/9927199217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927246817",
+        "name": "Тяжёлый танк ИС-3",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2751371,
+          53.511013
+        ]
+      },
+      "id": "node/9927246817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927247617",
+        "name": "76-мм дивизионная пушка ЗиС-3 образца 1942 г.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2751508,
+          53.5110626
+        ]
+      },
+      "id": "node/9927247617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927248217",
+        "name": "Самоходная артиллерийская установка ИСУ-152",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2751575,
+          53.5111168
+        ]
+      },
+      "id": "node/9927248217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927262017",
+        "name": "БТР-60",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2757282,
+          53.5110202
+        ]
+      },
+      "id": "node/9927262017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927290518",
+        "name": "Ротонда",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2730778,
+          53.5054146
+        ]
+      },
+      "id": "node/9927290518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9927334117",
+        "name": "Выставочный зал",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2715834,
+          53.5074243
+        ]
+      },
+      "id": "node/9927334117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10673940605",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3328934,
+          53.5005731
+        ]
+      },
+      "id": "node/10673940605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10673940606",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3328981,
+          53.5005786
+        ]
+      },
+      "id": "node/10673940606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691942102",
+        "name": "Дальний бомбардировщик Ту-15",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.247851,
+          53.5529089
+        ]
+      },
+      "id": "node/10691942102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691942103",
+        "name": "Вертолет Ми-26",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2489948,
+          53.5521704
+        ]
+      },
+      "id": "node/10691942103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691942104",
+        "name": "Вертолет Ми-24",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2494337,
+          53.5523403
+        ]
+      },
+      "id": "node/10691942104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691979505",
+        "name": "Вертолет Ка-27",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.249428,
+          53.5521486
+        ]
+      },
+      "id": "node/10691979505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691979506",
+        "name": "Вертолет Ми-8",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2488759,
+          53.552342
+        ]
+      },
+      "id": "node/10691979506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691979507",
+        "name": "Вертолет Ми-2",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2486579,
+          53.5524059
+        ]
+      },
+      "id": "node/10691979507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10691979508",
+        "name": "ПММ-2М",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2474885,
+          53.552125
+        ]
+      },
+      "id": "node/10691979508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10697393701",
+        "contact:email": "gk-barguzin163@yandex.ru",
+        "contact:phone": "+7 848 2249599;+7 991 5119190",
+        "contact:website": "https://gk-barguzin.ru",
+        "name": "Баргузин",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.452448,
+          53.531577
+        ]
+      },
+      "id": "node/10697393701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11692822572",
+        "name": "КараваН",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4651052,
+          53.5722661
+        ]
+      },
+      "id": "node/11692822572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11692921269",
+        "name": "КараваН",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4649362,
+          53.5722855
+        ]
+      },
+      "id": "node/11692921269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11972292448",
+        "artist_name": "ТГУ",
+        "artwork_type": "installation",
+        "material": "wood",
+        "name": "Стрелка ТГУ",
+        "tourism": "artwork",
+        "website": "https://www.tltsu.ru/news/vstretimsia_na_strelke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4005524,
+          53.4996509
+        ]
+      },
+      "id": "node/11972292448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12108223378",
+        "artwork_type": "graffiti",
+        "name": "Здесь мы начинаем",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.400228,
+          53.499875
+        ]
+      },
+      "id": "node/12108223378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12108334641",
+        "name": "Антураж",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4165061,
+          53.5069868
+        ]
+      },
+      "id": "node/12108334641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12108385527",
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4166797,
+          53.5062933
+        ]
+      },
+      "id": "node/12108385527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12241346503",
+        "name": "Пещера страха",
+        "tourism": "theme_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2685206,
+          53.5164908
+        ]
+      },
+      "id": "node/12241346503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12825518301",
+        "name": "Огромная сосна",
+        "name:en": "Big pine",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.345897,
+          53.5243672
+        ]
+      },
+      "id": "node/12825518301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12850540402",
+        "addr:housenumber": "73",
+        "addr:street": "улица Бориса Коваленко",
+        "name": "Ловкий плюс",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5429621,
+          53.4850817
+        ]
+      },
+      "id": "node/12850540402"
+    }
+  ]
+}
